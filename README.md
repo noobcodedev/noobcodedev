@@ -2,8 +2,12 @@
 <h1>WLLCOME&nbsp;NOOBCODEDEV</h1> 
 <p>I am Tharusha. I am software engineer studying</p>
 
+---
 
+## STREAK
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=noobcodedev&theme=dark&background=000000)](https://git.io/streak-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noobcodedev&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <div id="header" align="center">
@@ -22,12 +26,7 @@
   <img src="https://komarev.com/ghpvc/?username=noobcodedev&style=flat-square&color=red" alt=""/>
 </div>
 
----
 
-## STREAK
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=noobcodedev&theme=dark&background=000000)](https://git.io/streak-stats)
-
----
 
 ## SKILLS
 <div>
