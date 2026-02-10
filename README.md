@@ -1,9 +1,12 @@
-<h1>WLLCOME&nbsp;NOOBCODEDEV</h1> 
+
 <p>I am Tharusha. I am software engineer studying</p>
 
 ---
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=consolas&weight=800&size=18&pause=1000&color=09F700&center=true&vCenter=true&width=435&lines=Welcome+NOOBx+Repositorie+hub;Contribute+the+open+source+projects;Share+your+knowledge+with+others)](https://git.io/typing-svg)
+---
 
 ## STREAK
+
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=noobcodedev&theme=dark&background=000000)](https://git.io/streak-stats)
 
@@ -33,6 +36,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="30" height="30"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="30" height="30"/>&nbsp;
