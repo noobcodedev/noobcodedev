@@ -1,5 +1,9 @@
 
-<p>I am Tharusha. I am software engineer studying</p>
+<p>I am Tharusha Dilsara. dedicated Software Architect and Engineer with 2 years of learning experience in the dynamic realm of software development and Cybersecurty.
+
+My expertise spans multiple programming languages, including Python, Java, and C++, where I craft elegant solutions that meet the most demanding technical challenges. I am passionate about designing robust and scalable software systems that drive innovation and enhance user experiences. My commitment to staying at the forefront of industry trends and my ability to work collaboratively make me a valuable asset to any project or team.
+
+Let's connect on my Repo to explore knowledge and share insights within the software development community.</p>
 
 ---
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=consolas&weight=800&size=18&pause=1000&color=09F700&center=true&vCenter=true&width=435&lines=Welcome+NOOBx+Repositorie+hub;Contribute+the+open+source+projects;Share+your+knowledge+with+others)](https://git.io/typing-svg)
@@ -20,6 +24,8 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noobcodedev&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <div id="header" align="center">
  <a href="https://github.com/noobcodedev"> <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></a>
