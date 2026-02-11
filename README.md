@@ -9,13 +9,6 @@ Let's connect on my Repo to explore knowledge and share insights within the soft
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=consolas&weight=800&size=18&pause=1000&color=09F700&center=true&vCenter=true&width=435&lines=Welcome+NOOBx+Repositorie+hub;Contribute+the+open+source+projects;Share+your+knowledge+with+others)](https://git.io/typing-svg)
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=noobcodedev&show_icons=true&theme=radical)
-
-![Spotify](https://spotify-github-profile.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)
-
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=noobcodedev)
-
-
 
 <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/github/stars/noobcodedev" alt="Stars Badge"/></a>
 <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/network/members"><img src="https://img.shields.io/github/forks/abhisheknaiidu/awesome-github-profile-readme" alt="Forks Badge"/></a>
